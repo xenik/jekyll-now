@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information will be able soon!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A programmer who wants to improve his skill to make the life better.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xenikSeefka@gmail.com](mailto:xenikSeefka@gmail.com)
