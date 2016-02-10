@@ -1,5 +1,7 @@
-layout: blog
+---
+layout: post
 title: win cmd commands 
+---
 
 Hi there!
 I didnt write last two days.. Monday, I was at home, cause I was ill yet.
