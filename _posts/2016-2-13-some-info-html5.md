@@ -11,8 +11,22 @@ http://html5.by/blog/visibilitychange-hidden-and-visibilitystate/
 Fullscreen javascript API или как развернуть страницу на весь экран c html5.
 http://html5.by/blog/fullscreen-javascript-api/
 
-camera
+camera:
+...
+
+
+
 html5:
 https://webref.ru/
 http://html5book.ru/html-html5/
+http://html5ru.com/html5/predystoriya-html5
+
+
+Ruby sites:
+hawkins.io
+blog.arkency.com
+
+ivan.nemytchenko:
+http://nemytchenko.ru/post/130806768570/skillgrid-dev
+
 
