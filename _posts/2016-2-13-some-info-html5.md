@@ -23,6 +23,9 @@ http://html5ru.com/html5/predystoriya-html5
 http://developer.mozilla.org/ru/docs/HTML/HTML5
 www.w3schools.com/html/html_examples.asp
 
+some bodes:
+http://www.formasterminds.com/html5_for_masterminds_revised_2nd_edition/examples.php
+
 youtube:
 /user/agragregra
 
