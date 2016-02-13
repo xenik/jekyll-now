@@ -20,7 +20,11 @@ html5:
 https://webref.ru/
 http://html5book.ru/html-html5/
 http://html5ru.com/html5/predystoriya-html5
+http://developer.mozilla.org/ru/docs/HTML/HTML5
+www.w3schools.com/html/html_examples.asp
 
+youtube:
+/user/agragregra
 
 Ruby sites:
 hawkins.io
